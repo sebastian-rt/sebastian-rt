@@ -1,16 +1,16 @@
-### Hi there 👋
+## Yo👋
 
-<!--
-**sebastian-rt/sebastian-rt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Sebastian**. I'm a student from [Heidelberg] interested in computer science and technology.
 
-Here are some ideas to get you started:
+### Facts about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📝 I'm currently learning **HTML/CSS/JS (React)**
+* 🤝 I love **collaborating** on projects
+* 👨 I use **he/him** pronouns
+
+### Connect with me
+
+* 📧 E-Mail: sebastian@wavestack.io
+* 🟣 Discord: `Sebastian R.#6226`
+
+[Heidelberg]: https://www.google.com/maps/place/Heidelberg
